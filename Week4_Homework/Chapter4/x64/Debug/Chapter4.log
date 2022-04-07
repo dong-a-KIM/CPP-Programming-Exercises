@@ -1,0 +1,6 @@
+﻿  4x4Main.cpp
+  FifteenPuzzle.cpp
+C:\C++프로그래밍\Chapter4\Chapter4\FifteenPuzzle.cpp(22,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ranking.cpp
+  코드를 생성하고 있습니다...
+  Chapter4.vcxproj -> C:\C++프로그래밍\Chapter4\x64\Debug\Chapter4.exe
