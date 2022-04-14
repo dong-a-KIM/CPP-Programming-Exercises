@@ -1,1 +1,6 @@
-﻿  Chapter4_expansion.vcxproj -> C:\homework\CPP-Programming-Exercises\Week4_Homework_2\x64\Debug\Chapter4_expansion.exe
+﻿  PuzzleGame_expansion.cpp
+C:\homework\CPP-Programming-Exercises\Week4_Homework_2\Chapter4_expansion\PuzzleGame_expansion.cpp(22,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ranking_expansion.cpp
+  main_expansion.cpp
+  코드를 생성하고 있습니다...
+  Chapter4_expansion.vcxproj -> C:\homework\CPP-Programming-Exercises\Week4_Homework_2\x64\Debug\Chapter4_expansion.exe
