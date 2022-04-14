@@ -18,7 +18,7 @@
     <ClCompile Include="main_expansion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FifteenPuzzle_expansion.cpp">
+    <ClCompile Include="PuzzleGame_expansion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Ranking_expansion.cpp">

@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FifteenPuzzle_expansion.cpp" />
+    <ClCompile Include="PuzzleGame_expansion.cpp" />
     <ClCompile Include="main_expansion.cpp" />
     <ClCompile Include="Ranking_expansion.cpp" />
   </ItemGroup>
